@@ -1,0 +1,14 @@
+"""def saudacao(nome, sobrenome):
+    print(f"Minha saudação...{nome} {sobrenome}")
+
+saudacao("MARCO", "ALENCAR")"""
+
+from layout import *
+def menu():
+    while True:
+        print("Escolha uma opção")
+        print("Opção xpto \n")
+        print("Opção xpto \n")
+        print("Opção xpto \n")
+        break
+
